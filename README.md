@@ -10,5 +10,5 @@ Bij voorkeur toont dit dashboard een huidig gemiddelde maar ook individuele waar
 Het management team is dol op eyecandy zoals mooie vormen, kleuren en animaties!
 
 ## resources 👩🏻‍💻
-- api 🩵
-- Styleguide 💙
+- api 🩵 hygraph
+- Styleguide 💙 figma
