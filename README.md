@@ -10,6 +10,6 @@ Bij voorkeur toont dit dashboard een huidig gemiddelde maar ook individuele waar
 Het management team is dol op eyecandy zoals mooie vormen, kleuren en animaties!
 
 ## resources 👩🏻‍💻
-- api 🩵 [Working with Express.js and Hygraph]([https://www.example.com](https://hygraph.com/blog/working-with-expressjs-and-hygraph))
-- - api 🩵 [Hygraph docs]([https://www.example.com](https://hygraph.com/blog/working-with-expressjs-and-hygraph)](https://hygraph.com/docs))
-- Styleguide 💙 figma
+- api 🤔 [Working with Express.js and Hygraph]([https://www.example.com](https://hygraph.com/blog/working-with-expressjs-and-hygraph))
+- api 📝 [Hygraph docs]([https://www.example.com](https://hygraph.com/blog/working-with-expressjs-and-hygraph)](https://hygraph.com/docs))
+- Styleguide 💅🏻 figma
